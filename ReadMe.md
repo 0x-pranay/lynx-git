@@ -27,3 +27,7 @@ git init
 
    git commit -m 'Commit message'
 
+
+## Get the status of current repo
+  git status
+
